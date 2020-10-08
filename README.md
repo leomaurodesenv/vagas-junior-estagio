@@ -107,6 +107,7 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 - [Facebook](https://fbestagio2021.splashthat.com/)
 - [Itaú](https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades)
 - [Iteris Consultoria](https://jobs.kenoby.com/iteris)
+- [Argo Solutions](https://useargo.gupy.io/)
 - [Zé Delivery](https://zedelivery.gupy.io/)
 
 #### Sergipe - SE
